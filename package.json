@@ -1,0 +1,21 @@
+{
+  "name": "vue-mixin-dynamic-component",
+  "version": "1.0.0",
+  "description": "Dynamic component mixin for Vue.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcsmcln/vue-mixin-dynamic-component.git"
+  },
+  "keywords": [
+    "vue",
+    "javascript",
+    "mixin"
+  ],
+  "author": "Marcus McLean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcsmcln/vue-mixin-dynamic-component/issues"
+  },
+  "homepage": "https://github.com/mrcsmcln/vue-mixin-dynamic-component#readme"
+}
